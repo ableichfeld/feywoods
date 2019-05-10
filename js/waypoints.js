@@ -23,7 +23,7 @@ var WAYPOINT = new Waypoint({
 You can have different actions for different directions of scrolling.
 */
 var castleFade1 = new Waypoint({
-  element: document.querySelector("#trigger0"),
+  element: document.querySelector("#trigger1"),
   handler: function(direction) {
     if(direction === "down") {
 

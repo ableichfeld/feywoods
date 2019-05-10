@@ -29,8 +29,8 @@ p{
   font-weight: 300;
 }
 
-.leftIll{
-  position: absolute;
+#castleContainer{
+  height: 15vw;
 }
 
 #castle{
@@ -39,5 +39,7 @@ p{
 }
 
 #castleFade1,#castleFade2,#castleFade3{
-  margin-left: 2.5%;
+  margin-left: 35%;
+  position: absolute;
+
 }
