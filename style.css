@@ -29,6 +29,11 @@ p{
   font-weight: 300;
 }
 
+.rightIll{
+  position: absolute;
+  z-index: -10;
+}
+
 #castleContainer{
   height: 15vw;
 }
@@ -41,5 +46,9 @@ p{
 #castleFade1,#castleFade2,#castleFade3{
   margin-left: 35%;
   position: absolute;
+}
 
+#damsel{
+  width: 25%;
+  margin-left: 70%;
 }
