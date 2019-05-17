@@ -34,6 +34,11 @@ p{
   z-index: -10;
 }
 
+.leftIll{
+  position: absolute;
+  z-index: -10;
+}
+
 #castleContainer{
   height: 15vw;
 }
@@ -51,4 +56,9 @@ p{
 #damsel{
   width: 25%;
   margin-left: 70%;
+}
+
+#envelope{
+  width: 20%;
+  margin-left: 40%;
 }
